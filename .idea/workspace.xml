@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="697cb6c5-68f7-48be-96dc-a9fd5c929dab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
@@ -65,6 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1576838670615</updated>
     </task>
+    <task id="LOCAL-00001" summary="Renew">
+      <created>1576893973749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576893973749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -73,10 +77,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Renew" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="833" y="164" width="828" height="801" key="CommitChangelistDialog2" timestamp="1576839514319">
+    <state x="657" y="203" width="828" height="801" key="CommitChangelistDialog2" timestamp="1576893973524">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="833" y="164" width="828" height="801" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1576839514319" />
+    <state x="657" y="203" width="828" height="801" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1576893973524" />
     <state x="297" y="81" width="1536" height="866" key="DiffContextDialog" timestamp="1576839410881">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -85,6 +89,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="542" y="224" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1576838989690" />
+    <state x="580" y="330" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1576894037730">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="580" y="330" width="800" height="522" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1576894037730" />
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576889018203">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
